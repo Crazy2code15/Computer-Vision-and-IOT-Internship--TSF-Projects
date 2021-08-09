@@ -9,7 +9,7 @@ I try to add all my Task soon!!!
   <p><a href="https://github.com/Crazy2code15/Sparks-Foundation-Internship-Projects/blob/main/Task-1%20Optical%20Character%20Recognition%20(OCR)/Task-1%20OCR%20(TSF).ipynb">code</a>   | <a href="" rel="nofollow">Youtube Video</a></p>
   
   <li> Color Identification in Images </li>
-  <p><a href="">code</a>   | <a href="" rel="nofollow">Youtube Video</a></p>
+  <p><a href="https://github.com/Crazy2code15/Sparks-Foundation-Internship-Projects/blob/main/Task-2%20Color%20Identification%20in%20Images/Task-2%20Color-identification-in-images.ipynb">code</a>   | <a href="" rel="nofollow">Youtube Video</a></p>
   
   <li> Social Distancing detector </li>
   <p><a href="">code</a>   | <a href="" rel="nofollow">Youtube Video</a></p>
