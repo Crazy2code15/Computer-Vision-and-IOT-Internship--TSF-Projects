@@ -5,8 +5,8 @@ I try to add all my Task soon!!!
 
 <h2> Computer Vision and IOT Internship Projects </h2>
 <ol>
-  <li> Object Detection/ Optical Character Recognition (OCR) </li>
-  <p><a href="">code</a>   | <a href="" rel="nofollow">Youtube Video</a></p>
+  <li> Optical Character Recognition (OCR) </li>
+  <p><a href="https://github.com/Crazy2code15/Sparks-Foundation-Internship-Projects/blob/main/Task-1%20Optical%20Character%20Recognition%20(OCR)/Task-1%20OCR%20(TSF).ipynb">code</a>   | <a href="" rel="nofollow">Youtube Video</a></p>
   
   <li> Color Identification in Images </li>
   <p><a href="">code</a>   | <a href="" rel="nofollow">Youtube Video</a></p>
