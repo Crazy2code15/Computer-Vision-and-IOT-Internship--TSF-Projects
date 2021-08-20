@@ -21,7 +21,7 @@ I try to add all my Task soon!!!
   <p><a href="">code</a>   | <a href="" rel="nofollow">Youtube Video</a></p>
   
   <li> Fault detection system </li>
-  <p><a href="">code</a>   | <a href="" rel="nofollow">Youtube Video</a></p>
+  <p><a href="https://github.com/Crazy2code15/Sparks-Foundation-Internship-Projects/blob/main/Task-6%20Fault%20Detection/Task-%206%20Fault%20Detection.ipynb">code</a>   | <a href="https://www.youtube.com/watch?v=qewYBaUVTsE&t=41s" rel="nofollow">Youtube Video</a></p>
   
   
   </ol>
